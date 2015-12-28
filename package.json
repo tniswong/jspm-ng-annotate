@@ -5,6 +5,6 @@
   "main": "index.js",
   "registry": "jspm",
   "dependencies": {
-    "ng-annotate": "^1.2.0"
+    "ng-annotate": "npm:ng-annotate@^1.2.0"
   }
 }
